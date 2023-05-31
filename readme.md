@@ -1,3 +1,0 @@
-branding:
-  title: DBplatz
-  label: 
