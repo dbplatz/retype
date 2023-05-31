@@ -8,7 +8,16 @@ poweredByRetype: true # Set to false to remove the Powered by Retype branding.
                       # A Retype Pro license is required.
                       # See: https://retype.com/pro
 links:
-  - text: Getting Started
-    link: https://retype.com/guides/getting-started/
+ - text: Home      # The text to use for the link
+    link: https://dbplatz.com/ # Link to an internal file or external URL.
+ 
+ - text: Twitter
+    link: https://twitter.com/dbplatz   # Link to an internal file or external URL.
+    icon: twitter      # A custom icon name, :emoji:, <svg>, or path to a file.
+    iconAlign: left # Icon alignment, to the left or right. Default is left.
+    target: blank   # Custom target. Use blank to open link in a new window.
+ 
+
+
 footer:
-  copyright: "&copy; Copyright . All rights reserved."
+  copyright: "DBplatz &copy; Copyright . All rights reserved."

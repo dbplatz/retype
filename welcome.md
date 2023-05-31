@@ -5,4 +5,6 @@ order: 100
 ---
 # Sample
 
-This is a sample page demonstrating page metadata.
+We're comming soon.
+
+Our website is currently undergoing scheduled maintenance.
